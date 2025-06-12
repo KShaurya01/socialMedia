@@ -9,7 +9,7 @@ This project is a React Native social media dashboard that integrates with provi
 1. **Clone the repository**
 
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/KShaurya01/socialMedia.git)>
    cd socialMedia
    ```
 
